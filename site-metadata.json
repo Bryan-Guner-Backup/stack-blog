@@ -353,7 +353,7 @@
             },
             {
                 "label": "Admin",
-                "url": "https://bgoonz-blog.netlify.app/admin/",
+                "url": "https://enthusiastic-spinach-93724.stackbit.app/admin",
                 "style": "primary",
                 "icon_class": "github",
                 "type": "action_menu",
@@ -361,7 +361,7 @@
                 "has_subnav": true,
                 "subnav_links": [{
                         "label": "Write Docs",
-                        "url": "https://bgoonz-blog.netlify.app/admin/#/collections/docs",
+                        "url": "https://enthusiastic-spinach-93724.stackbit.app/admin#/collections/docs",
                         "style": "primary",
                         "icon_class": "dev",
                         "new_window": false,
@@ -370,7 +370,7 @@
                     },
                     {
                         "label": "Write Blog",
-                        "url": "https://bgoonz-blog.netlify.app/admin/#/collections/blog/new",
+                        "url": "https://enthusiastic-spinach-93724.stackbit.app/admin#/collections/blog/new",
                         "style": "primary",
                         "icon_class": "dev",
                         "new_window": false,
@@ -379,7 +379,7 @@
                     },
                     {
                         "label": "Webmaster",
-                        "url": "https://bgoonz-blog.netlify.app/admin/#/collections/blog/new",
+                        "url": "https://enthusiastic-spinach-93724.stackbit.app/admin#/collections/blog/new",
                         "style": "primary",
                         "icon_class": "dev",
                         "new_window": false,
