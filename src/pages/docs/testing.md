@@ -1,7 +1,7 @@
 ---
 template: docs
 title: test
-weight: 0
+weight: 1
 excerpt: lorem-ipsum
 seo:
   title: ''
