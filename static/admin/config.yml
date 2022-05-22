@@ -1,4 +1,3 @@
-
 publish_mode: editorial_workflow # do not commit directly, fork to a branch first and create a pull request, this is necessary for the open_authoring option
 
 backend:
