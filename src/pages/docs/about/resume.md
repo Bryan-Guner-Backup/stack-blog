@@ -49,15 +49,15 @@ template: docs
 
 ## ➤Projects
 
-**Gatsby** **GraphQL-Blog** **[Live Site |](https://bgoonz-blog.netlify.app/)[GitHub](https://github.com/bgoonz/BGOONZ_BLOG_2.0)**
+**Gatsby** **GraphQL-Blog** **[Live Site |](https://enthusiastic-spinach-93724.stackbit.app/)[GitHub](https://github.com/bgoonz/BGOONZ_BLOG_2.0)**
 
 **Stack:** _JavaScript, React / Gatsby | GraphQL | SCSS | Lodash | Jamstack | Facebook Comments API | jQuery | Firebase_
 
-_**A**_[_**web development blog**_](https://bgoonz-blog.netlify.app/)_**featuring convenient web development tools and interactive content**_
+_**A**_[_**web development blog**_](https://enthusiastic-spinach-93724.stackbit.app/)_**featuring convenient web development tools and interactive content**_
 
 - Implemented 4 Gatsby page models and GraphQL schema to fetch markdown content and feed it into react components.
-- Designed and integrated a set of convenient web-hosted [developer tools](https://bgoonz-blog.netlify.app/docs/tools/) and GUI interfaces.
-- Added interactive content including comments, [video conferencing](https://bgoonz-blog.netlify.app/docs/interact/video-chat/), [data-structure visualization](https://bgoonz-blog.netlify.app/docs/interact/other-sites/), [games](https://bgoonz-blog.netlify.app/docs/interact/) and full text search.
+- Designed and integrated a set of convenient web-hosted [developer tools](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/) and GUI interfaces.
+- Added interactive content including comments, [video conferencing](https://enthusiastic-spinach-93724.stackbit.app/docs/interact/video-chat/), [data-structure visualization](https://enthusiastic-spinach-93724.stackbit.app/docs/interact/other-sites/), [games](https://enthusiastic-spinach-93724.stackbit.app/docs/interact/) and full text search.
 
 **Autonomously Triggered Guitar Effects Platform\*\*** [Live Site](https://bgoonz.github.io/Revamped-Automatic-Guitar-Effect-Triggering/)| [GitHub](https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/Triggered-Guitar-Effects-Platform)\*\*
 

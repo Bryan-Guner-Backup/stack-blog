@@ -120,7 +120,7 @@
                     },
                     {
                         "label": "Career-Tips",
-                        "url": "https://bgoonz-blog.netlify.app/docs/career/",
+                        "url": "https://enthusiastic-spinach-93724.stackbit.app/docs/career/",
                         "style": "primary",
                         "icon_class": "dev",
                         "new_window": false,
@@ -164,7 +164,7 @@
                     },
                     {
                         "label": "Web Dev Setup",
-                        "url": "https://bgoonz-blog.netlify.app/blog/webdev-setup/",
+                        "url": "https://enthusiastic-spinach-93724.stackbit.app/blog/webdev-setup/",
                         "style": "primary",
                         "icon_class": "dev",
                         "new_window": false,
@@ -324,7 +324,7 @@
                     },
                     {
                         "label": "Wordpress Blog",
-                        "url": "https://bgoonz-blog.netlify.app/",
+                        "url": "https://enthusiastic-spinach-93724.stackbit.app/",
                         "style": "primary",
                         "icon_class": "dev",
                         "new_window": false,
@@ -534,6 +534,6 @@
         "content": "@bgoonz on almost every platform"
     },
     "title": "webdevhub",
-    "domain": "https://bgoonz-blog.netlify.app/",
+    "domain": "https://enthusiastic-spinach-93724.stackbit.app/",
     "favicon": "images/logo-final-touchup.PNG"
 }
